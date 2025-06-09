@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: VP
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Vishnupriya
+last_name: Varadharaju
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Narf Industries
     url: https://openai.com/
 
 # Social network links
@@ -182,5 +182,7 @@ awards:
 ---
 
 ## About Me
+
+Hi, I'm Vishnupriya. I work as a research engineer at Narf Industries and I have a background in Computer Science from UMass Amherst, with earlier studies in Electronics and Communication from the College of Engineering, Guindy, in India.
 
 Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
